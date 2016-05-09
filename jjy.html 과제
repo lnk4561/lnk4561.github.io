@@ -19,7 +19,7 @@
 	<link rel="stylesheet" href="styles.css">
 
 <body>
-	<img src="C:\Users\pc\Desktop\img\abc.jpg"/> 
+	<img src="abc.jpg"/> 
 	<h1><li><i>Hellow my name is <ins>Jun yeong Jang<ins></i>.</li></h1>
 	<h2>This year, I am studying Webdesign in webdesign class. So I'll make webpage about <del>all of</del> me.</h2>
 
